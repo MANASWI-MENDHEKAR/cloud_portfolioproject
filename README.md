@@ -4,7 +4,7 @@ A personal website built to showcase my skills, projects, and leadership initiat
 
 ##  Live Demo
 
-Visit the portfolio: [https://cloud-portfolio.vercel.app](cloudportfolioproject-zr8g.vercel.app)
+Visit the portfolio: [https://cloud-portfolio.vercel.app](https://cloudportfolioproject-zr8g.vercel.app/)
 
 ## GitHub Repository
 
